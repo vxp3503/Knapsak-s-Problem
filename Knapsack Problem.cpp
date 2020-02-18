@@ -44,9 +44,6 @@ s[z]=i;
 k[i]=0;
 z++;}
 }}
-for(z=0;z<n;z++)
-{
-cout<<s[z]<<endl;}
 for(j=0;j<n-1;j++)
 {
 for(i=0;i<n-1-j;i++)
